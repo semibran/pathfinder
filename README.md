@@ -1,2 +1,2 @@
 # pathfinder
-portable A* pathfinding in javascript
+> portable A* pathfinding in javascript
